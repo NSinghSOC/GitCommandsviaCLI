@@ -1,1 +1,4 @@
 # GitCommandsviaCLI
+
+#public #secret
+#confidential
